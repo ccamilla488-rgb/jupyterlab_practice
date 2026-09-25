@@ -1,28 +1,6 @@
-name: base
+name: jupyter_lab_env
 channels:
   - conda-forge
   - defaults
-dependencies:
-  - python=3.14
-  - conda=26.7.2
-  - setuptools
-  - pip
-  - wheel
-  - conda-anaconda-telemetry[version='>=0.3.0']
-  - conda-anaconda-tos[version='>=0.2.2']
-  - conda-content-trust
-  - conda-libmamba-solver
-  - menuinst
-  - anaconda_prompt
-  - anaconda_powershell_prompt
-  - anaconda-anon-usage
-  - anaconda-channel-guide
-  - anaconda-auth[version='>=0.15.1']
-  - jupyterlab
-  - jupyterlab-git
-  - pandas
-  - jupyterlab-spellchecker
-  - jupyter-book
-  - nbconvert
-  - nb_conda_kernels
-prefix: C:\Users\vanil\miniconda3
+dependencies: []
+prefix: C:\Users\vanil\miniconda3\envs\jupyter_lab_env
