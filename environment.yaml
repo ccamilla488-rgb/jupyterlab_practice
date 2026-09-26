@@ -3,4 +3,4 @@ channels:
   - conda-forge
   - defaults
 dependencies: []
-prefix: C:\Users\vanil\miniconda3\envs\jupyter_lab_env
+
